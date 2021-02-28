@@ -102,3 +102,12 @@ dist
 
 # TernJS port file
 .tern-port
+
+# temporary file
+temp
+temp.json
+temp.js
+temp.log
+
+
+target
